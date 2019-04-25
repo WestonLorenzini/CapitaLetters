@@ -17,7 +17,9 @@ What is planned for future versions:
 - crafting recipes
 - different colors and color changing (dying)
 
-*src.zip contains all relevant packages and classes*
+*src.zip contains all relevant packages and classes
+If you just want to test out the mod download and install "capitaLetters 1.12.jar (Forge for MCVersion 1.12 required)*
+
 
 Programs used:
 
