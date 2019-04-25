@@ -1,6 +1,7 @@
 # WestonLorenzini
 Just got into minecraft modding, not much experience in java in general aswell. Trying my best and appreciating criticism.
-This is the first mod I have created so far.
+I personally have always been looking for a mod that implements "big letters" to Minecraft for labeling a shop or things like that.
+Now I have decided to write one myself and this is the first outcome.
 
 CapitaLetters Alpha ver1.0 (for Minecraft 1.12)
 
