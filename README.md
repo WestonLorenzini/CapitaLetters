@@ -18,5 +18,5 @@ What is planned for future versions:
 
 Programs used:
 
-Eclipse Java Oxygen
-Model Creator by MrCrayfish https://www.patreon.com/mrcrayfish
+- Eclipse Java Oxygen
+- Model Creator by MrCrayfish https://www.patreon.com/mrcrayfish
