@@ -17,6 +17,8 @@ What is planned for future versions:
 - crafting recipes
 - different colors and color changing (dying)
 
+*src.zip contains all relevant packages and classes*
+
 Programs used:
 
 - Eclipse Java Oxygen
